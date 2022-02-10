@@ -1,0 +1,1 @@
+请把ram.hex放在Exp4\Exp4.sim\sim_1\behav\xsim目录下，以便仿真程序调用。
